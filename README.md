@@ -1,9 +1,9 @@
-Calculadora de divisas
+# Calculadora de divisas
 
-Descripción
+Descripción:
 Calculadora de divisas para convertir USD a monedas locales (Japón, México, Francia, Bolivia) con tasas de cambio actualizadas.
 
-Uso
+# Como usarlo:
 Clona el repositorio.
 
 Ejecuta el script principal.
